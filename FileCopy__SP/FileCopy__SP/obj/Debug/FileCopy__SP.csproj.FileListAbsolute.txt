@@ -9,3 +9,14 @@ C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\File
 C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.csproj.CoreCompileInputs.cache
 C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.exe
 C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.pdb
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\bin\Debug\FileCopy__SP.exe.config
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\bin\Debug\FileCopy__SP.exe
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\bin\Debug\FileCopy__SP.pdb
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.csproj.AssemblyReference.cache
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.csproj.SuggestedBindingRedirects.cache
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.Form1.resources
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.Properties.Resources.resources
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.csproj.GenerateResource.cache
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.csproj.CoreCompileInputs.cache
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.exe
+C:\Ismayil\PROJECTS\StepIT\9.SystemProgramming\Lesson 2 - AppDomain, Thread\FileCopy_SP\FileCopy__SP\FileCopy__SP\obj\Debug\FileCopy__SP.pdb

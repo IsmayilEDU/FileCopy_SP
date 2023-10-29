@@ -115,6 +115,7 @@
             this.button_Resume.TabIndex = 9;
             this.button_Resume.Text = "Resume";
             this.button_Resume.UseVisualStyleBackColor = true;
+            this.button_Resume.Click += new System.EventHandler(this.button_Resume_Click);
             // 
             // button_Suspend
             // 
@@ -124,6 +125,7 @@
             this.button_Suspend.TabIndex = 10;
             this.button_Suspend.Text = "Suspend";
             this.button_Suspend.UseVisualStyleBackColor = true;
+            this.button_Suspend.Click += new System.EventHandler(this.button_Suspend_Click);
             // 
             // button_Abort
             // 
@@ -133,6 +135,7 @@
             this.button_Abort.TabIndex = 11;
             this.button_Abort.Text = "Abort";
             this.button_Abort.UseVisualStyleBackColor = true;
+            this.button_Abort.Click += new System.EventHandler(this.button_Abort_Click);
             // 
             // button_Copy
             // 
