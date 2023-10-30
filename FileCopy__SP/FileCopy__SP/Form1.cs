@@ -58,7 +58,15 @@ namespace FileCopy__SP
 
         private void button_Abort_Click(object sender, EventArgs e)
         {
-            thread.Abort();
+            try
+            {
+                if (IsSuspend) throw new Exception("Suspend olunmush thread abort edile bilmez!");
+                thread.Abort();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         #endregion
